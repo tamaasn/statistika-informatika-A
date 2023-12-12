@@ -1,2 +1,2 @@
-# statistika-informatika-A
-statistika informatika A
+# Statistika Informatika A
+Source code statistika Informatika A (distribusi frekuensi kelompok 2)
